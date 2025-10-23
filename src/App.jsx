@@ -4,8 +4,6 @@ import Rizo from "./components/Rizo.jsx"
 const App = () => {
   return (
     <div>
-      <Header />
-      <h1></h1>
       <Rizo />
     </div>
   );

@@ -1,0 +1,21 @@
+.Zfooter{
+    width: 1400px;
+    height: 2000px;
+    background-color: #191C22;
+    border: 16px;
+   
+}
+
+.Zcontainer{
+    text-align: center;
+     
+}
+
+p{
+    color: white;
+    
+}
+
+hr{
+    color: white;
+}

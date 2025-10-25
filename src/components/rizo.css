@@ -73,7 +73,7 @@ cursor: pointer;
 .main__div{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 .main__h3{

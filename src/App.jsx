@@ -1,10 +1,10 @@
 import React from "react";
 import Header from "./components/Header.jsx";
+import Islom from "./components/islom.jsx";
 const App = () => {
   return (
     <div>
-      <Header />
-      <h1>main</h1>
+      <Islom />
     </div>
   );
 };
